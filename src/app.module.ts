@@ -20,7 +20,6 @@ import { Categories } from "./categories/categories.entity";
       synchronize: true,
       autoLoadEntities: true,
     }),
-    CategoriesModule,
   ],
 })
 export class AppModule {}
